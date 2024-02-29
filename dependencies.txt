@@ -1,0 +1,7 @@
+st:
+picom
+
+
+dwm
+xsetroot
+
