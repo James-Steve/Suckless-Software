@@ -1,3 +1,5 @@
 to get class name for dynamic swallow
 xprop | grep 'CLASS' 
+to tell dynamic-swallower to swallow
+dwmswallow $WINDOWID -c ClassName
 
