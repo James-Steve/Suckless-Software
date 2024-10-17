@@ -1,8 +1,0 @@
-github.com-sshsteve:James-Steve/dwmblocks.git
-github.com-sshsteve:James-Steve/slock.git
-github.com-sshsteve:James-Steve/dmenu.git
-github.com-sshsteve:James-Steve/ST.git
-github.com-sshsteve:James-Steve/DWM.git
-https://git.suckless.org/slstatus
-
-
