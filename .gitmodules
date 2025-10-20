@@ -1,9 +1,6 @@
 [submodule "dwmblocks"]
 	path = dwmblocks
 	url = https://github.com/James-Steve/dwmblocks.git
-[submodule "slock"]
-	path = slock
-	url = https://github.com/James-Steve/slock.git
 [submodule "dmenu"]
 	path = dmenu
 	url = https://github.com/James-Steve/dmenu.git
@@ -13,6 +10,3 @@
 [submodule "dwm"]
 	path = dwm
 	url = https://github.com/James-Steve/dwm.git
-[submodule "slstatus"]
-	path = slstatus
-	url = https://git.suckless.org/slstatus
